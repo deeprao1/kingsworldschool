@@ -639,7 +639,7 @@
             </div>
         </div>
         <div class="copyright">
-            <p>Copyright © 2026 Kings Court World School</p>
+            <p>Copyright © 2026 Kings Court World School<br>All Rights Reserved. Designed by <a href="https://amazingit.in/" target="_blank" style="color: var(--google-yellow); text-decoration: none;">Amazing IT</a>.</p>
         </div>
     </footer>
 
