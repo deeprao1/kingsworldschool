@@ -436,14 +436,16 @@
         }
     </style>
 
-    <!-- SEO & Social Sharing Enhancements -->
-    <meta property="og:title" content="Kings Court World School - Best Pre School in Mansarovar">
-    <meta property="og:description" content="Welcome to Kings Court World School, Mansarovar–Jaipur’s only Kindergarten dedicated to a truly Inquiry-Based, World-Class Curriculum at affordable fees.">
+    
+
+    <!-- Dynamic Open Graph Tags -->
+    <meta property="og:title" content="Photo Gallery & Events | Kings Court World School Jaipur">
+    <meta property="og:description" content="Explore the vibrant campus life, events, and activities at Kings Court World School, Badpitawas, Jaipur. View our photo gallery showcasing student life.">
     <meta property="og:image" content="https://www.kingscourtworldschool.com/kcwsbanner.jpg">
-    <meta property="og:url" content="https://www.kingscourtworldschool.com/">
+    <meta property="og:url" content="https://www.kingscourtworldschool.com/gallery.php">
     <meta property="og:type" content="website">
 
-    <!-- Local Business Schema for Google -->
+    <!-- Local Business Schema -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -462,12 +464,7 @@
         "addressCountry": "IN"
       },
       "telephone": "+91-7665083556",
-      "email": "kingscourtworldschool@gmail.com",
-      "sameAs": [
-        "https://www.facebook.com/kingscourtworldschool/",
-        "https://www.instagram.com/kingscourtworldschool/",
-        "https://www.youtube.com/@KINGSCOURTWORLDSCHOOL"
-      ]
+      "email": "kingscourtworldschool@gmail.com"
     }
     </script>
 </head>
