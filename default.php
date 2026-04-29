@@ -126,6 +126,10 @@
     <!-- Local Business Schema -->
     
     <!-- Dynamic Open Graph Tags -->
+                    
+    <!-- Local Business Schema -->
+    
+    <!-- Dynamic Open Graph Tags -->
     <meta property="og:title" content="Default page">
     <meta property="og:description" content="Kings Court World School - Best Pre School in Mansarovar">
     <meta property="og:image" content="https://www.kingscourtworldschool.com/kcwsbanner.jpg">
@@ -151,7 +155,14 @@
         "addressCountry": "IN"
       },
       "telephone": "+91-7665083556",
-      "email": "kingscourtworldschool@gmail.com"
+      "email": "kingscourtworldschool@gmail.com",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "154",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
     }
     </script>
 </head>

@@ -107,7 +107,14 @@ function processDirectory(dir) {
         "addressCountry": "IN"
       },
       "telephone": "+91-7665083556",
-      "email": "kingscourtworldschool@gmail.com"
+      "email": "kingscourtworldschool@gmail.com",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "154",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
     }
     </script>`;
             }
