@@ -447,6 +447,10 @@
     <!-- Local Business Schema -->
     
     <!-- Dynamic Open Graph Tags -->
+                    
+    <!-- Local Business Schema -->
+    
+    <!-- Dynamic Open Graph Tags -->
     <meta property="og:title" content="Photo Gallery & Events | Kings Court World School Jaipur">
     <meta property="og:description" content="Explore the vibrant campus life, events, and activities at Kings Court World School, Badpitawas, Jaipur. View our photo gallery showcasing student life.">
     <meta property="og:image" content="https://www.kingscourtworldschool.com/kcwsbanner.jpg">
