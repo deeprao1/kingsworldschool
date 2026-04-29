@@ -10,8 +10,8 @@
     <meta name="keywords" content="Kings Court World School Gallery, Jaipur School Events, Best School Campus Badpitawas, Student Activities KCWS, School Photo Gallery">
     <meta name="robots" content="index, follow">
 
-    <link rel="icon" type="image/png" href="./favKCWS.png">
-    <link rel="apple-touch-icon" href="./favKCWS.png">
+    <link rel="icon" type="image/png" href="favKCWS.png">
+    <link rel="apple-touch-icon" href="favKCWS.png">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -459,15 +459,15 @@
 
     <nav>
         <div class="logo">
-            <a href="./">
-                <img src="./logoKCWS.png" alt="Kings Court World School Logo" style="height: 50px; width: auto; object-fit: contain;">
+            <a href="index.html">
+                <img src="logoKCWS.png" alt="Kings Court World School Logo" style="height: 50px; width: auto; object-fit: contain;">
             </a>
         </div>
         <div class="hamburger" onclick="toggleMenu()">
             <i class="fa-solid fa-bars"></i>
         </div>
         <ul class="nav-links">
-            <li class="nav-item"><a href="./">Home</a></li>
+            <li class="nav-item"><a href="index.html">Home</a></li>
             <li class="nav-item"><a href="about.html">About us</a></li>
             
             <li class="nav-item">
@@ -554,8 +554,8 @@
         <div class="footer-content">
             <div class="footer-col">
                 <div class="logo" style="margin-bottom: 1rem;">
-                    <a href="./">
-                        <img src="./Footerlogo.png" alt="Kings Court World School Logo" style="height: 50px; width: auto; object-fit: contain;">
+                    <a href="index.html">
+                        <img src="Footerlogo.png" alt="Kings Court World School Logo" style="height: 50px; width: auto; object-fit: contain;">
                     </a>
                 </div>
                 <div class="social-links">
