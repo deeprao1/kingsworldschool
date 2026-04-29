@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Exclude potential private directories if any are added in the future
+Disallow: /cgi-bin/
+
+# Specify the sitemap for search engines
+Sitemap: https://www.kingscourtworldschool.com/sitemap.xml
